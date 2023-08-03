@@ -1,0 +1,93 @@
+body {
+	width: 900px; 
+	margin-left: auto;
+	margin-right: auto; 
+	background-color:blanchedalmond; 
+	
+
+}
+
+header {
+	
+	padding: 5px;
+	float:right
+	font-family: font-family: 'Belanosima', sans-serif;
+	font-variant: small-caps;  
+
+}
+
+main {
+	padding: 5px; 
+    
+}
+
+nav {
+	width: 200px;
+	float:left;
+	padding: 5px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	  
+}
+
+img {
+  border: 1px solid #0F0F0F;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+}
+nav ul li a:hover, nav ul li a:focus {
+  color: black;
+  background-color: white;
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #EBEFBCul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+} ;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+    border: 1px black solid;
+	padding: 5px; 
+		
+}
